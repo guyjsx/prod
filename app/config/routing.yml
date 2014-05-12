@@ -1,0 +1,4 @@
+guy_cnet:
+    resource: "@GuyCnetBundle/Resources/config/routing.yml"
+    prefix:   /
+

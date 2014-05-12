@@ -1,0 +1,7 @@
+parameters:
+#    guy_cnet.example.class: Guy\Bundle\CnetBundle\Example
+
+services:
+#    guy_cnet.example:
+#        class: %guy_cnet.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
